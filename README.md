@@ -9,7 +9,7 @@ HTML
     <title>First Html</title>
 </head>
 <body>
-    <h1>Working with CodePen</h1>
+    <h1>Working with Nexskill</h1>
     <p>In the upper right, look for the button that looks like a row or column of small squares on top of one giant square. Clicking this will allow you to rearrange the screen so that your HTML is on the left and the display is on the right.</p>
     <p>You will see windows for CSS and JS <b>(JavaScript)</b>, but we will not use them in this course. You may minimize these windows by clicking and dragging them to their folded state. </p>
     <p>Fork this CodePen to your account using the "fork" button in the lower right of the screen.</p>
